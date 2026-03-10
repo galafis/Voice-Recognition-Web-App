@@ -1,10 +1,12 @@
 {
   "name": "voice-recognition-web-app",
   "version": "1.0.0",
-  "description": "> Professional repository showcasing advanced development skills",
+  "description": "Browser-based speech recognition using the Web Speech API",
   "main": "main.js",
   "scripts": {
-    "start": "node main.js"
+    "start": "npx serve .",
+    "test": "node tests/main.test.js"
   },
+  "author": "Gabriel Demetrios Lafis",
   "license": "MIT"
 }
