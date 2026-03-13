@@ -7,6 +7,7 @@ Browser-based speech recognition application using the Web Speech API.
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Web Speech API](https://img.shields.io/badge/Web_Speech_API-Supported-4285F4.svg)](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg?logo=docker)](Dockerfile)
 
 [Portugues](#portugues) | [English](#english)
 
